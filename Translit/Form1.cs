@@ -7,8 +7,6 @@ namespace Translit
 {
     public partial class Form1 : Form
     {
-        int num = 66;
-
         Dictionary<string, string> arr;
 
         public Form1()
